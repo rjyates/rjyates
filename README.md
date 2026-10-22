@@ -48,7 +48,7 @@ I'm especially interested in **local-first AI and self-hosted systems**: how to 
 
 ## Where I'm headed
 
-I'm developing toward **senior technology leadership**, with a long-term ambition to become a **CTO**. I want to grow in technical architecture, business understanding, communication, and the judgment needed to lead meaningful technology initiatives.
+I'm developing toward **technology leadership**. I want to grow in technical architecture, business understanding, communication, and the judgment needed to lead meaningful technology initiatives.
 
 Technology operations and leadership, systems and infrastructure engineering, automation, and solutions architecture are all paths that interest me. I value opportunities to own a problem, work across teams, and understand both the technical and organizational consequences of a decision.
 
