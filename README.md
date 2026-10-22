@@ -35,7 +35,7 @@ I'm especially interested in **local-first AI and self-hosted systems**: how to 
 | :--- | :--- |
 | **[Luther](https://github.com/rjyates/luther)** | How can software help a researcher organize and explore a specialized body of literature? A local medieval-history research library with PDF ingestion, search, and optional Ollama-assisted analysis. |
 | **Vera** · In development | How could a personal assistant connect information, reduce administrative effort, and help with planning while preserving privacy and human approval? My ongoing exploration of AI, automation, and service integration. |
-| **Home Assistant & homelab** · Personal projects | How can connected systems make everyday life more convenient without becoming a maintenance burden? A practical space for exploring dashboards, automation, self-hosting, and integration. |
+| **[Home Assistant & homelab](https://github.com/rjyates/homelab)** · Personal projects | How can connected systems make everyday life more convenient without becoming a maintenance burden? A practical space for exploring dashboards, automation, self-hosting, and integration. |
 | **[Search Engine](https://github.com/rjyates/Search-Engine)** | How do documents become searchable information? A C++ project exploring tokenization, keyword retrieval, and term-frequency ranking. |
 
 ## How I approach technology
