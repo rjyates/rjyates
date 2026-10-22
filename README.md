@@ -9,7 +9,7 @@
   <a href="#technical-experience">Technical experience</a>
 </p>
 
-<img align="right" src="assets/regan-yates.jpg" alt="Headshot of Regan Yates" width="140">
+<img align="right" src="https://avatars.githubusercontent.com/u/75269018?s=280&amp;v=4" alt="Headshot of Regan Yates" width="140">
 
 ## Connecting technology to the way people work
 
