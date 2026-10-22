@@ -56,7 +56,7 @@ My current foundation combines enterprise IT operations and embedded software de
 
 ## Beyond technology
 
-I'm curious about history, literature, philosophy, physics, astronomy, and space exploration. Learning matters to me beyond career advancement, and I want the things I build to support a fulfilling life as well as useful work.
+I love physics, astronomy, space, literature, and learning new things. My curiosity extends beyond technology and career development, and I want the things I build to support a fulfilling life as well as useful work.
 
 ---
 
