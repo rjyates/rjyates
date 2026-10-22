@@ -11,8 +11,6 @@
 
 <p align="center"><a href="#ideas-in-practice">Projects</a> &nbsp;·&nbsp; <a href="#where-im-headed">My direction</a></p>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/75269018?s=280&amp;v=4" alt="Headshot of Regan Yates" width="140">
-
 ## Building systems that make life and work better
 
 I'm Regan. I love understanding how things work, noticing where a process gets in the way, and figuring out how technology could make it better.
@@ -20,8 +18,6 @@ I'm Regan. I love understanding how things work, noticing where a process gets i
 My interests sit across **systems architecture, automation, AI, infrastructure, and technology leadership**. I'm drawn to work that connects the technical details with the bigger picture: what people need, how an organization operates, and which problems are worth solving.
 
 I enjoy hands-on development, but I'm just as interested in deciding **what should be built, why it matters, and how the pieces should fit together**.
-
-<br clear="right">
 
 ## What I love building
 
