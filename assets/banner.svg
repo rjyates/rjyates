@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="260" viewBox="0 0 1120 260" role="img" aria-labelledby="title desc">
+  <title id="title">Regan Yates</title>
+  <desc id="desc">Technology, systems and thoughtful automation. Enterprise IT, embedded development and technology leadership.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#181825"/><stop offset="1" stop-color="#313244"/></linearGradient></defs>
+  <rect width="1120" height="260" rx="18" fill="url(#bg)"/>
+  <path d="M0 244H1120" stroke="#cba6f7" stroke-width="2" opacity=".3"/>
+  <rect x="40" y="42" width="4" height="161" rx="2" fill="#f2cdcd"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="68" y="69" font-size="13" letter-spacing="3.2" fill="#cba6f7">SYSTEMS · SOFTWARE · STRATEGY</text>
+    <text x="64" y="137" font-size="57" font-weight="600" letter-spacing="-1.5" fill="#cdd6f4">Regan Yates</text>
+    <text x="68" y="176" font-size="23" fill="#f2cdcd">Technology, systems &amp; thoughtful automation.</text>
+    <text x="68" y="211" font-size="15" fill="#a6adc8">Enterprise IT · Embedded development · Technology leadership</text>
+  </g>
+  <g fill="none" stroke-width="1.4">
+    <rect x="879" y="55" width="154" height="154" rx="28" stroke="#cba6f7" opacity=".35"/>
+    <rect x="907" y="83" width="98" height="98" rx="20" stroke="#f2cdcd" opacity=".45"/>
+    <path d="M856 132h51m98 0h51M956 32v51m0 98v47" stroke="#9399b2" opacity=".5"/>
+  </g>
+  <circle cx="956" cy="132" r="15" fill="#cba6f7"/>
+  <circle cx="879" cy="132" r="5" fill="#f2cdcd"/>
+  <circle cx="1033" cy="132" r="5" fill="#a6e3a1"/>
+</svg>
