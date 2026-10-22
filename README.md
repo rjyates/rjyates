@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/regan-yates-85ab711ba/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/rjyates/regan-yates-portfolio">Portfolio project</a> &nbsp;·&nbsp;
+  <a href="https://regan-yates-portfolio.reyyates.chatgpt.site/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://regan-yates-portfolio.reyyates.chatgpt.site/resume/">Résumé</a> &nbsp;·&nbsp;
   <a href="#ideas-in-practice">Projects</a> &nbsp;·&nbsp;
   <a href="#where-im-headed">Direction</a>
 </p>
