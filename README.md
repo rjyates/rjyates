@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/regan-yates-85ab711ba/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://regan-yates-portfolio.reyyates.chatgpt.site/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://regan-yates-portfolio.reyyates.chatgpt.site/resume/">Résumé</a> &nbsp;·&nbsp;
-  <a href="#ideas-in-practice">Projects</a> &nbsp;·&nbsp;
-  <a href="#where-im-headed">Direction</a>
+  <a href="https://regan-yates-portfolio.reyyates.chatgpt.site/"><img src="assets/buttons/portfolio.svg" alt="Portfolio" width="145" height="44"></a>
+  <a href="https://www.linkedin.com/in/regan-yates-85ab711ba/"><img src="assets/buttons/linkedin.svg" alt="LinkedIn" width="145" height="44"></a>
+  <a href="https://regan-yates-portfolio.reyyates.chatgpt.site/resume/"><img src="assets/buttons/resume.svg" alt="Résumé" width="145" height="44"></a>
+  <a href="https://github.com/rjyates/homelab"><img src="assets/buttons/homelab.svg" alt="Homelab" width="145" height="44"></a>
 </p>
+
+<p align="center"><a href="#ideas-in-practice">Projects</a> &nbsp;·&nbsp; <a href="#where-im-headed">My direction</a></p>
 
 <img align="right" src="https://avatars.githubusercontent.com/u/75269018?s=280&amp;v=4" alt="Headshot of Regan Yates" width="140">
 
@@ -39,6 +40,22 @@ I'm especially interested in **local-first AI and self-hosted systems**: how to 
 | **[Home Assistant & homelab](https://github.com/rjyates/homelab)** · Personal projects | How can connected systems make everyday life more convenient without becoming a maintenance burden? A practical space for exploring dashboards, automation, self-hosting, and integration. |
 | **[Qyrion](https://github.com/rjyates/Qyrion)** · Security prototype | How can cryptographic inventory become understandable planning evidence? A local Python CLI for TLS certificate metadata, CBOM reports, evidence packs, comparisons, and prototype policy checks. |
 | **[Search Engine](https://github.com/rjyates/Search-Engine)** | How do documents become searchable information? A C++ project exploring tokenization, keyword retrieval, and term-frequency ranking. |
+
+## Tools & technologies
+
+<p align="center">
+  <img src="assets/technologies/python.svg" alt="Python" width="104" height="65">
+  <img src="assets/technologies/cplusplus.svg" alt="C++" width="104" height="65">
+  <img src="assets/technologies/javascript.svg" alt="JavaScript" width="104" height="65">
+  <img src="assets/technologies/docker.svg" alt="Docker" width="104" height="65">
+</p>
+
+<p align="center">
+  <img src="assets/technologies/linux.svg" alt="Linux" width="104" height="65">
+  <img src="assets/technologies/git.svg" alt="Git" width="104" height="65">
+  <img src="assets/technologies/homeassistant.svg" alt="Home Assistant" width="104" height="65">
+  <img src="assets/technologies/sqlite.svg" alt="SQLite" width="104" height="65">
+</p>
 
 ## How I approach technology
 
