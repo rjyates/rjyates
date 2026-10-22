@@ -5,57 +5,59 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/regan-yates-85ab711ba/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/rjyates/regan-yates-portfolio">Portfolio project</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#technical-experience">Technical experience</a>
+  <a href="#ideas-in-practice">Projects</a> &nbsp;·&nbsp;
+  <a href="#where-im-headed">Direction</a>
 </p>
 
 <img align="right" src="https://avatars.githubusercontent.com/u/75269018?s=280&amp;v=4" alt="Headshot of Regan Yates" width="140">
 
-## Connecting technology to the way people work
+## Building systems that make life and work better
 
-I'm Regan, a technology professional in Northwest Arkansas working across **enterprise IT operations, embedded software, and automation**. I enjoy understanding a business problem, deciding how systems should work together, and making everyday processes simpler.
+I'm Regan. I love understanding how things work, noticing where a process gets in the way, and figuring out how technology could make it better.
 
-At **OneGauge Digital Gauges**, I'm a **Technical Lead & Developer**, contributing to embedded C++ firmware, CAN bus integration, software architecture, and product planning. A customer-facing configuration application is ongoing development.
+My interests sit across **systems architecture, automation, AI, infrastructure, and technology leadership**. I'm drawn to work that connects the technical details with the bigger picture: what people need, how an organization operates, and which problems are worth solving.
 
-At the **University of Arkansas System Division of Agriculture**, I'm a **Computer Support Analyst**. My responsibilities include coordinating helpdesk workflows, supervising two hourly staff, and administering Microsoft identity and endpoint environments.
-
-I'm pursuing a master's in **Management Information Systems**, with a **Cybersecurity Management** concentration, at the University of Arkansas. Expected completion: **May 2027**. I completed my computer science bachelor's degree in 2024.
+I enjoy hands-on development, but I'm just as interested in deciding **what should be built, why it matters, and how the pieces should fit together**.
 
 <br clear="right">
 
-## Selected work
+## What I love building
 
-| Project | What to explore |
+- **Tools that remove repetitive work.** Turning manual steps into understandable workflows, with people retaining control over important decisions.
+- **Systems that connect information.** Making knowledge easier to organize, retrieve, and use, whether that means a research library or a personal assistant.
+- **Practical integrations.** Bringing software, devices, and services together around a useful experience, rather than adding technology for its own sake.
+
+I'm especially interested in **local-first AI and self-hosted systems**: how to make them useful, reliable, privacy-conscious, and maintainable. Cybersecurity informs that interest through identity, infrastructure, architecture, and thoughtful access boundaries.
+
+## Ideas in practice
+
+| Project | The question behind it |
 | :--- | :--- |
-| **[Luther](https://github.com/rjyates/luther)** · Research software | A local medieval-history research library with PDF ingestion, text extraction, search, and optional Ollama-assisted analysis. Built as a personal research tool; AI-generated research opportunities require verification. |
-| **[Professional Portfolio](https://github.com/rjyates/regan-yates-portfolio)** · Professional communication | A static portfolio and mobile networking page presenting my experience, selected work, and technology leadership direction. |
-| **[Search Engine](https://github.com/rjyates/Search-Engine)** · C++ | Document tokenization and keyword retrieval, with results ordered by query-term frequency. A focused example of my programming foundations. |
+| **[Luther](https://github.com/rjyates/luther)** | How can software help a researcher organize and explore a specialized body of literature? A local medieval-history research library with PDF ingestion, search, and optional Ollama-assisted analysis. |
+| **Vera** · In development | How could a personal assistant connect information, reduce administrative effort, and help with planning while preserving privacy and human approval? My ongoing exploration of AI, automation, and service integration. |
+| **Home Assistant & homelab** · Personal projects | How can connected systems make everyday life more convenient without becoming a maintenance burden? A practical space for exploring dashboards, automation, self-hosting, and integration. |
+| **[Search Engine](https://github.com/rjyates/Search-Engine)** | How do documents become searchable information? A C++ project exploring tokenization, keyword retrieval, and term-frequency ranking. |
 
-## What I'm developing
+## How I approach technology
 
-**Vera** is my ongoing personal AI and automation project. Its direction is local-first assistance, service integration, structured workflows, and explicit human approval for consequential actions. The broader assistant is still in design and development.
+**Understand the problem before choosing the tool.** I care about the people and processes a system is meant to support.
 
-My personal **Home Assistant and homelab work** gives me a practical space to explore dashboards, automation, self-hosting, and service integration. I prioritize understandable controls, privacy, reliability, and manageable maintenance.
+**Think across boundaries.** My background spans enterprise IT, embedded development, and software. I want to keep connecting those perspectives rather than limit myself to one specialty.
 
-## Technical experience
-
-<img src="assets/toolkit.svg" alt="Python, C/C++, PowerShell, SQL, Microsoft cloud and endpoints, Linux, Docker" width="100%">
-
-**Development** · Python, C/C++, Java, SQL, JavaScript, HTML/CSS, Bash, PowerShell, R  
-**Enterprise technology** · Microsoft Azure, Intune, Active Directory, identity administration, endpoint deployment  
-**Systems & hardware** · Windows, Linux, macOS, Docker, Arduino, embedded firmware, CAN bus  
-**Coordination** · Support operations, staff supervision, technical documentation, workflow improvement, technology evaluation
+**Make decisions explainable.** Clear documentation, understandable controls, and honest descriptions of what works matter as much as an interesting implementation.
 
 ## Where I'm headed
 
-I'm interested in **technology operations and IT leadership**, **systems and infrastructure**, **automation**, and **solutions architecture**. Cybersecurity is a valuable part of that broader systems perspective.
+I'm developing toward **senior technology leadership**, with a long-term ambition to become a **CTO**. I want to grow in technical architecture, business understanding, communication, and the judgment needed to lead meaningful technology initiatives.
 
-My long-term direction is technology leadership: combining technical depth with business understanding, clear communication, and ownership of technology decisions. I'm open to discussing opportunities in **Northwest Arkansas or fully remote US roles**, with relocation considered for an exceptional opportunity.
+Technology operations and leadership, systems and infrastructure engineering, automation, and solutions architecture are all paths that interest me. I value opportunities to own a problem, work across teams, and understand both the technical and organizational consequences of a decision.
 
-## Beyond code
+My current foundation combines enterprise IT operations and embedded software development. I'm also pursuing a master's in **Management Information Systems**, with a **Cybersecurity Management** concentration, at the University of Arkansas — expected **May 2027**.
 
-My curiosity extends to history, literature, philosophy, physics, astronomy, and space exploration. I like technology best when it makes room for a fuller life and helps people do meaningful work.
+## Beyond technology
+
+I'm curious about history, literature, philosophy, physics, astronomy, and space exploration. Learning matters to me beyond career advancement, and I want the things I build to support a fulfilling life as well as useful work.
 
 ---
 
-<sub>Built around clarity, useful systems, and thoughtful decisions. Visual accents inspired by Catppuccin Mocha.</sub>
+<sub>Systems · Software · Strategy — with Catppuccin Mocha accents.</sub>
